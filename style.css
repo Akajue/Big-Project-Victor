@@ -1,0 +1,30 @@
+.navbarlogo {
+      width: 8em;
+      height: 5em;
+    }
+    
+    body {
+      background-image: url("../img/Sans\ titre\ \(1\).png") ;
+      width: 100%;
+      height: 100%;
+      margin-top: 3em;
+      
+    }
+    
+    .titlediv {
+      margin-left: 5em;
+      max-width: 30em;
+      position: relative;
+      top:7em;
+      display: flex;
+      flex-direction: column;
+      gap: 1em;
+
+    }
+    
+    .ppage1 {
+      margin-top: 15em;
+      margin-right: 50em;
+    }
+  
+  
