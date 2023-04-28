@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Cette page est réservé au administrateurs"
+AuthUserFile .htpasswd
+Require valid-user
